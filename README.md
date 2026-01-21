@@ -108,8 +108,8 @@ When a user enters a URL:
 ---
 
 ## 📸 Preview / Screenshots
- <img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a09adf1-ad03-4789-b4d5-b7cd6a49ac71" />
-<img width="1899" height="1027" alt="image" src="https://github.com/user-attachments/assets/7c739b35-84ec-4ad6-b729-9d8ba0e9af34" />
+<img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/11473e48-8692-4b89-aec2-6d6e3dad0315" />
+<img width="1899" height="1027" alt="image" src="https://github.com/user-attachments/assets/fa8a1d66-69c6-4dd6-a2e7-3b90672b45a3" />
 
 
 
